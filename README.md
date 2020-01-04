@@ -4,7 +4,7 @@
 
 ```sh
 install and sync relay server
-git clone https://github.com/galperins4/tbw
+git clone https://github.com/jamiec79/tbw.git
 cd ~/tbw/config
 fill out configs (see below)
 cd ~/tbw
