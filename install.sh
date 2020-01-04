@@ -17,7 +17,8 @@ install_modules(){
   sudo apt-get install python3-pip
   sudo -H pip3 install setuptools
   sudo -H pip3 install -r requirements.txt
-  sudo npm install pm2@latest -g
+  sudo npm remove pm2 -g
+  sudo npm install pm2@3.5.1 -g
 }
 ark(){
         install_modules
