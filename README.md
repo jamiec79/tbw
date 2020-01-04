@@ -5,9 +5,9 @@
 ```sh
 install and sync relay server
 git clone https://github.com/jamiec79/tbw.git
-cd ~/tbw-Shift-16.04-only/config
+cd ~/tbw/config
 fill out configs (see below)
-cd ~/tbw-Shift-16.04-only
+cd ~/tbw
 bash install.sh
 ```
 
